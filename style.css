@@ -107,28 +107,28 @@ body {
   padding: 4px 12px;
 }
 
-.card .content .category h3 {
+.card .content .category h2 {
   font: 800 0.875rem "Figtree", serif;
   line-height: 1.5;
   letter-spacing: 0;
   color: hsl(0, 0%, 7%);
 }
 
-.card .content h4 {
+.card .content h3 {
   font: 500 0.875rem "Figtree", serif;
   line-height: 1.5;
   letter-spacing: 0;
   color: hsl(0, 0%, 7%);
 }
 
-.card .content h2 {
+.card .content h1 {
   font: 800 1.5rem "Figtree", serif;
   line-height: 1.5;
   letter-spacing: 0;
   color: hsl(0, 0%, 7%);
 }
 
-.card .content h2:hover {
+.card .content h1:hover {
   color: hsl(47, 88%, 63%);
   cursor: pointer;
 }
@@ -141,8 +141,8 @@ body {
 }
 
 .card .content .category,
-.card .content h4,
-.card .content h2 {
+.card .content h3,
+.card .content h1 {
   margin-bottom: 12px;
 }
 
