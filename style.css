@@ -149,7 +149,7 @@ body {
 .card .author {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 0.75rem;
 }
 
 .card .author img {
